@@ -2,7 +2,7 @@
 
 Sauce Type: Not Fermented
 
-### Ingredients:
+#### Ingredients:
 - 12 x Habanero Peppers, seeded and chopped 
 - 1 Can (15.5oz) Sliced Peaches in Heavy Syrup 
 - 1 Cup Distilled White Vinegar 
@@ -19,16 +19,15 @@ Sauce Type: Not Fermented
 
 Note: Prepare Outdoors
 
-### Steps: 
+#### Steps: 
 1. Put all the ingredients in the blender
 2. Blend until liquefied 
 3. Boil sauce and then pour into hot, cleaned jars. 
     * Leave ½ inch headspace 
 4. Boil the jars full of sauce, making sure they are submerged the whole time
 
-### Conservation:  
+#### Conservation:  
 Shelf Stable
 
 ##### Source:
-
 YouTube: https://www.youtube.com/watch?v=ak1Ue93FCfs

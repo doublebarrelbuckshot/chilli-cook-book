@@ -1,0 +1,52 @@
+author: Giancarlo Rizzi
+title: Your title
+lang: en
+
+## Output formats
+
+# Uncomment and fill to generate files
+# output.html: some_file.html
+# output.epub: some_file.epub
+output.pdf: some_file.pdf
+
+# Or uncomment the following to generate PDF, HTML and EPUB files based on this file's name
+# output: [pdf, epub, html]
+
+# Uncomment and fill to set cover image (for EPUB)
+# cover: some_cover.png
+
+crowbook.markdown.superscript: true
+
+proofread.repetitions: true
+proofread.languagetool: true
+
+
+# Rendering options
+# rendering.num_depth: 4
+# rendering.initials: false
+# rendering.inline_toc: true
+# rendering.chapter.template: "{{{number}}}. # {{{chapter_title}}}"# 
+# rendering.chapter.roman_numerals: false# 
+# rendering.part.reset_counter: true
+# rendering.highlight: syntect
+
+# Latex options
+tex.class: report
+# tex.links_as_footnotes: false
+tex.paper.size: a5paper
+tex.template: custom-template.tex
+
+## List of chapters
+# @- recipes/non-fermented/chapter.md
+# @+ recipes/non-fermented/bobby-carlson--bobs-hab# anero-peach-hot-sauce-2.md
+# @+ recipes/non-fermented/bobby-carlson--bobs-habanero-peach-hot-sauce-2.md
+
+# + file_name.md includes a numbered chapter.
+# - file_name.md includes an unnumbered chapter.
+# ! file_name.md includes a chapter whose title won’t be displayed (except in the table of contents); this is useful for e.g. including a copyright at the beginning or the book, or for short stories where there is only one chapter.
+# @ includes a part instead of a chapter
+
+
+@- recipes/non-fermented/chapter.md
+- recipes/non-fermented/bobby-carlson--bobs-habanero-peach-hot-sauce-2.md 
+- recipes/non-fermented/bobby-carlson--bobs-habanero-peach-hot-sauce-2.md

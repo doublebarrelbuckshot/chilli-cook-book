@@ -1,8 +1,10 @@
-# Firey Mango Roasted Hot Pepper Sauce - Smokey Ribs BBQ
+# Firey Mango Roasted Hot Pepper Sauce 
+by Smokey Ribs BBQ
 
-Sauce Type: Not Fermented
+##### Sauce Type:
+Not Fermented
 
-### Ingredients:
+#### Ingredients:
 - 8 x Habanero Peppers 
 - 4 x Ghost Peppers 
 - 3 x Carolina Reaper Peppers 
@@ -18,7 +20,7 @@ Sauce Type: Not Fermented
 
 Note: Prepare Outdoors
 
-### Steps: 
+#### Steps: 
 1. Mix Onions, garlic, and whole peppers into a dry skillet 
     * Dry roast it on the skillet. They should soften up a bit and have a little of charring 
 2. Put all in food processor 
@@ -34,7 +36,7 @@ Note: Prepare Outdoors
 5. Simmer at low heat to reduce it until you like the consistency – Probably about half reduced? 
 6. Pour it into bottles while still hot 
 
-### Conservation:  
+#### Conservation:  
 Unknown
 
 ##### Source:

@@ -1,13 +1,5 @@
 {{=<< >>=}} % Use <<&foo>> to include (non HTML-escape) variable foo instead of {{{foo}}}
 \documentclass<<#has_tex_size>>[<<&tex_size>>pt]<</has_tex_size>>{<<&class>>}
-% \documentclass[openany]{book}
-% book
-% article
-% report - sections on same page
-% memoir
-% letter - no chapter defined
-% beamer
-% proc
 
 %% Pacake inclusion
 <<#xelatex>>
@@ -133,10 +125,10 @@
 
 
 % Redefine headers
-\pagestyle{fancy}
-\fancyhead{}
-\fancyhead[CO,CE]{\thepage}
-\fancyfoot{}
+% \pagestyle{fancy}
+% \fancyhead{}
+% \fancyhead[CO,CE]{\thepage}
+% \fancyfoot{}
 
 
 <</stdpage>>
@@ -164,7 +156,13 @@
 % Code
 \newcommand\mdcode[1]{\texttt{#1}}
 
-% toto 
+% Reduce space on top of chapter titles
+% https://tex.stackexchange.com/questions/63390/how-to-decrease-spacing-before-chapter-title 
+\usepackage{titlesec}  
+\titleformat{\chapter}[display]  
+{\normalfont\huge\bfseries}{\chaptertitlename\ \thechapter}{20pt}{\Huge}  
+\titlespacing{\chapter}{0pt}{0pt}{0pt}  
+
 % \let\cleardoublepage\clearpage
 % \titlespacing*{\chapter}{0pt}{0pt}{40pt}
 

@@ -1,6 +1,8 @@
-# Bob's Habanero Peach Hot Sauce - Bobby Carlson
+# Bob's Habanero Peach Hot Sauce
+by Bobby Carlson
 
-Sauce Type: Not Fermented
+##### Sauce Type:
+Not Fermented
 
 #### Ingredients:
 - 12 x Habanero Peppers, seeded and chopped 

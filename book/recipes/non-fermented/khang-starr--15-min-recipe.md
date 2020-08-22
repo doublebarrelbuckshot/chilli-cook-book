@@ -1,8 +1,10 @@
-# Simple 15 Minute Recipe - Khang Starr
+# Simple 15 Minute Recipe
+by Khang Starr
 
-Sauce Type: Not Fermented
+##### Sauce Type:
+Not Fermented
 
-### Ingredients:
+#### Ingredients:
 - 4-5 x Superhot Peppers 
 - 1 x Large Bell Pepper (orange/yellow - depending on colour of sauce you want) 
 - 3 x Large Garlic Cloves 
@@ -17,7 +19,7 @@ Can add a few other peppers, like
 
 Note: Make sauce, leave at least over night before using 
 
-### Steps: 
+#### Steps: 
 1. Remove seeds from bell pepper 
 2. Put in blender: 
     * Bell pepper that was cut into smaller pieces 
@@ -38,7 +40,7 @@ Note: Make sauce, leave at least over night before using
 5. Wait for sauce to cool, and bottle 
     * Pour in bottle and that’s it 
 
-### Conservation:  
+#### Conservation:  
 Not specified, but shouldn’t be very long 
 
 ##### Source:

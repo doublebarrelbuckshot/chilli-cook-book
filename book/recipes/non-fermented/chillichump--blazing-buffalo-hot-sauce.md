@@ -1,8 +1,10 @@
-# Blazing Buffalo Hot Sauce – ChilliChump  
+# Blazing Buffalo Hot Sauce
+by ChilliChump
 
-Sauce Type: Mash Fermentation
+##### Sauce Type:
+Mash Fermentation
 
-### Ingredients (Normal Hot):
+#### Ingredients (Normal Hot):
 - 580g Cayenne Peppers (70%)
 - 250g Ring of Fire Peppers (30%)
 - 2 x 7 Pot Habaneros
@@ -13,7 +15,7 @@ Sauce Type: Mash Fermentation
 Optional:
  - 1 x 7 Pot Primo for more heat 
 
-### Ingredients (Very Hot):
+#### Ingredients (Very Hot):
 - 65% Ring of Fire Peppers  
 - 35% Cayenne Peppers 
 - 4 x 7 Pot Habaneros  
@@ -21,7 +23,7 @@ Optional:
 - 2+% Salt  
 - 2-3 Tablespoons Garlic powder (more than in normal heat, so it comes through) 
 
-### Steps: 
+#### Steps: 
 1. Chop up all peppers loosely (going to blend it anyways) 
 2. Blend peppers all together with salt. Get peppers as small as you can. 
 3. Put peppers in jar, but keep the sides of the jar clean (or clean it up later) to avoid mold growth 
@@ -37,7 +39,7 @@ Optional:
 
 Note: Keep the stuff that you filtered out, you can freeze it in ice cube trays, or dry it
 
-### Conservation:  
+#### Conservation:  
 Shelf Stable
 
 ##### Source:

@@ -1,8 +1,10 @@
-# Ghost Pepper Hot Sauce – White Thunder BBQ
+# Ghost Pepper Hot Sauce
+by White Thunder BBQ
 
-Sauce Type: Fermented
+##### Sauce Type:
+Fermented
 
-### Ingredients:
+#### Ingredients:
 - ~20 x Ghost Peppers  
 - ~6 x Sweet Mini Red Chillies 
 - 4 x Shallots 
@@ -15,7 +17,7 @@ Sauce Type: Fermented
 - Salt to Taste 
 - 2.5% Brine Solution 
 
-### Steps: 
+#### Steps: 
 1. Slice Ghost Peppers 
 2. Combine ingredients in a jar for fermentation 
     * Shallots, roughly chopped up in jar 
@@ -39,7 +41,7 @@ Sauce Type: Fermented
     * ½ cup Apple Cider Vinegar 
 7. Bottle the sauce 
 
-### Conservation:  
+#### Conservation:  
 Shelf Stable
 
 ##### Source:

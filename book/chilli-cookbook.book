@@ -33,8 +33,10 @@ proofread.languagetool: true
 # Latex options
 tex.class: report
 # tex.links_as_footnotes: false
-tex.paper.size: a5paper
+tex.paper.size: a4paper
 tex.template: custom-template.tex
+# tex.title: false
+tex.margin.top: 1cm
 
 ## List of chapters
 # @- recipes/non-fermented/chapter.md
@@ -48,5 +50,9 @@ tex.template: custom-template.tex
 
 
 @- recipes/non-fermented/chapter.md
-- recipes/non-fermented/bobby-carlson--bobs-habanero-peach-hot-sauce-2.md 
-- recipes/non-fermented/bobby-carlson--bobs-habanero-peach-hot-sauce-2.md
+- recipes/non-fermented/bobby-carlson--bobs-habanero-peach-hot-sauce.md
+- recipes/non-fermented/chillichump--blazing-buffalo-hot-sauce.md
+- recipes/non-fermented/chillichump--nandos-style-hot-sauce.md
+- recipes/non-fermented/khang-starr--15-min-recipe.md
+- recipes/non-fermented/smokey-ribs--firey-mango-roasted-hot-pepper-sauce.md
+- recipes/non-fermented/white-thunder-bbq--ghost-pepper-hot-sauce.md

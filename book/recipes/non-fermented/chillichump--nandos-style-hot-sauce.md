@@ -1,8 +1,10 @@
-# Nandos Style Hot Sauce – ChilliChump 
+# Nandos Style Hot Sauce
+by ChilliChump
 
-Sauce Type: Not Fermented
+##### Sauce Type:
+Not Fermented
 
-### Ingredients:
+#### Ingredients:
 - 30-40 x Piri Piri Peppers (you can use other birds eye, or Super Chilli)  
 - 6 x Cayenne Peppers  
 - 4 x Ring of Fire Peppers  
@@ -15,14 +17,14 @@ Sauce Type: Not Fermented
 - ½ tablespoon Salt  
 - ½ teaspoon Citric Acid (optional) - https://geni.us/citricacid 
 
-### Steps: 
+#### Steps: 
 1. Blend all ingredients together 
     * Doesn’t have to be super smooth, little bits is ok 
 2. Simmer at low heat for 10-15 minutes 
 
 Note: Heat takes away the vegetable taste, so it mellows out 
 
-### Conservation:  
+#### Conservation:  
 Shelf Stable with the citric acid. Put in fridge once starting to use. 
 
 ##### Source:

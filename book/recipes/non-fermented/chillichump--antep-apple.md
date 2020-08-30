@@ -12,7 +12,7 @@ Not Fermented
 - 4 Tablespoons Apple Cider Vinegar (may need more if you have really sweet apples)
 - 100g Ginger
 - 2 x Cinnamon Sticks
-- 10 x Pod of Green Cardamon
+- 10 x Green Cardamon Pods
 - 3 Teaspoons Rock Salt
 - ½ Tablespoon Sugar
 - ½ Teaspoon Xanthan Gum (optional)

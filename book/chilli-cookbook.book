@@ -7,7 +7,7 @@ lang: en
 # Uncomment and fill to generate files
 # output.html: some_file.html
 # output.epub: some_file.epub
-output.pdf: some_file.pdf
+output.pdf: chilli-cookbook.pdf
 
 # Or uncomment the following to generate PDF, HTML and EPUB files based on this file's name
 # output: [pdf, epub, html]
@@ -25,8 +25,8 @@ proofread.languagetool: true
 # rendering.num_depth: 4
 # rendering.initials: false
 # rendering.inline_toc: true
-# rendering.chapter.template: "{{{number}}}. # {{{chapter_title}}}"# 
-# rendering.chapter.roman_numerals: false# 
+# rendering.chapter.template: "{{{number}}}. # {{{chapter_title}}}"#
+# rendering.chapter.roman_numerals: false#
 # rendering.part.reset_counter: true
 # rendering.highlight: syntect
 
@@ -39,20 +39,19 @@ tex.template: custom-template.tex
 tex.margin.top: 1cm
 
 ## List of chapters
-# @- recipes/non-fermented/chapter.md
-# @+ recipes/non-fermented/bobby-carlson--bobs-hab# anero-peach-hot-sauce-2.md
-# @+ recipes/non-fermented/bobby-carlson--bobs-habanero-peach-hot-sauce-2.md
+@- recipes/brine-fermented/chapter.md
+- recipes/brine-fermented/white-thunder-bbq--ghost-pepper-hot-sauce.md
 
-# + file_name.md includes a numbered chapter.
-# - file_name.md includes an unnumbered chapter.
-# ! file_name.md includes a chapter whose title won’t be displayed (except in the table of contents); this is useful for e.g. including a copyright at the beginning or the book, or for short stories where there is only one chapter.
-# @ includes a part instead of a chapter
-
+@- recipes/mash-fermented/chapter.md
+- recipes/mash-fermented/chillichump--blazing-buffalo-hot-sauce.md
 
 @- recipes/non-fermented/chapter.md
-- recipes/non-fermented/bobby-carlson--bobs-habanero-peach-hot-sauce.md
-- recipes/non-fermented/chillichump--blazing-buffalo-hot-sauce.md
 - recipes/non-fermented/chillichump--nandos-style-hot-sauce.md
+- recipes/non-fermented/chillichump--antep-apple.md
+- recipes/non-fermented/bobby-carlson--bobs-habanero-peach-hot-sauce.md
 - recipes/non-fermented/khang-starr--15-min-recipe.md
 - recipes/non-fermented/smokey-ribs--firey-mango-roasted-hot-pepper-sauce.md
-- recipes/non-fermented/white-thunder-bbq--ghost-pepper-hot-sauce.md
+
+
+@- recipes/dishes/chapter.md
+- recipes/dishes/chillichump--piri-piri-chicken.md

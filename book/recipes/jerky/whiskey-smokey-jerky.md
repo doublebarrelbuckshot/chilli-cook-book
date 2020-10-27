@@ -11,11 +11,11 @@ by Tym17
 #### Steps:
 ##### Prepare the marinade
 - Pour the liquids in a bowl
-- Slice the beef in small tranches against the grain
+- Slice the beef in small slices against the grain
 - mix everything together
 - let it rest in the fridge for around 6 hours
 
-##### Dry it
+##### Drying process
 - Put a layer of meat and press lightly on it with clean paper towel to absorb excess liquid
 - Lay the meat on the dehydrator racks
-- Switch the dehydrator on at 70°C/158°F for 7 hours
+- Set the dehydrator to 70°C/158°F and let it dry for 7 hours

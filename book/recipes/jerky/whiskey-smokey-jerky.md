@@ -6,14 +6,14 @@ by Tym17
 - 6 unit soy sauce
 - 1 unit liquid smoke
 - 10 unit coca cola
-- beef with as little fat as possible
+- Beef with as little fat as possible
 
 #### Steps:
 ##### Prepare the marinade
 - Pour the liquids in a bowl
 - Slice the beef in small slices against the grain
 - Mix everything together
-- let it rest in the fridge for around 6 hours
+- Let it rest in the fridge for around 6 hours
 
 ##### Drying process
 - For each slice, absorb excess liquid with a clean paper towels

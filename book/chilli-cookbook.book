@@ -52,6 +52,8 @@ tex.margin.top: 1cm
 - recipes/non-fermented/khang-starr--15-min-recipe.md
 - recipes/non-fermented/smokey-ribs--firey-mango-roasted-hot-pepper-sauce.md
 
-
 @- recipes/dishes/chapter.md
 - recipes/dishes/chillichump--piri-piri-chicken.md
+
+@- recipes/jerky/chapter.md
+- recipes/jerky/whiskey-smokey-jerky.md
